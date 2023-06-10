@@ -67,10 +67,10 @@ public class InsideKontrolContent extends AppCompatActivity {
                         public void onDataChange(@NonNull DataSnapshot controlSnapshot) {
                             // обработка данных, полученных из базы данных
                             System.out.println(controlSnapshot.getValue());
-                            for(DataSnapshot ctrlSnapshot: controlSnapshot.getChildren()){
-                                ItemControlBanner itemControlBanner = ctrlSnapshot.getValue(ItemControlBanner.class);
+
+                                ItemControlBanner itemControlBanner = controlSnapshot.getValue(ItemControlBanner.class);
                                 items.add(itemControlBanner);
-                            }
+
 
                         }
 
