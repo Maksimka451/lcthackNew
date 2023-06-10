@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/home"
+        android:id="@+id/inside_content"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:title="@string/consultation_menu"
+        android:id="@+id/services"
+        android:icon="@drawable/baseline_insert_chart_24"/>
+
+    <item
+        android:title="@string/Chat"
+        android:id="@+id/chat"
+        android:icon="@drawable/baseline_chat_24"/>
+
+
+</menu>

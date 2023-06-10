@@ -1,0 +1,105 @@
+<resources>
+
+    <string-array name="months_array">
+        <item>1 Январь </item>
+        <item>2 Февраль</item>
+        <item>3 Март</item>
+        <item>4 Апрель</item>
+        <item>5 Май</item>
+        <item>6 Июнь</item>
+        <item>7 Июль</item>
+        <item>8 Август</item>
+        <item>9 Сентябрь</item>
+        <item>10 Октябрь</item>
+        <item>11 Ноябрь</item>
+        <item>12 Декабрь</item>
+    </string-array>
+
+    <string-array name="mouths_en">
+        <item>1 january</item>
+        <item>2 february</item>
+        <item>3 march</item>
+        <item>4 april</item>
+        <item>5 may</item>
+        <item>6 june</item>
+        <item>7 july</item>
+        <item>8 august</item>
+        <item>9 september</item>
+        <item>10 october</item>
+        <item>11 november</item>
+        <item>12 december</item>
+    </string-array>
+
+    <string name="app_name">My Application</string>
+    <string name="RegistrationHeader">Доступ к информационным ресурсам города Москвы</string>
+    <string name="RegistrationUnderHeader">Цифровая платформа Открытый контроль</string>
+    <string name="RegistrationText">Регистрация</string>
+    <string name="Enter">Войти</string>
+    <string name="EnterAlt">Войти через</string>
+    <string name="RegistrationCreateText">Создайте единый личный кабинет для получения услуг и электронных сервисов Москвы</string>
+    <string name="RegistrationLDText">Личные данные</string>
+    <string name="Sername">Фамилия</string>
+    <string name="Name">Имя</string>
+    <string name="SecondName">Отчество</string>
+    <string name="NoSecondName">Нет отчества</string>
+    <string name="RegContackts">Контактные данные</string>
+    <string name="Phone">Мобильный телефон</string>
+    <string name="Mail">Электронная почта</string>
+    <string name="Security">Безопасность</string>
+    <string name="Password">Пароль</string>
+    <string name="ForgotPassword">Забыли пароль?</string>
+    <string name="ShowPassword">Показать пароль</string>
+    <string name="RePassword">Повторите пароль</string>
+    <string name="Main">Главная</string>
+    <string name="Service">Сервисы</string>
+    <string name="Chat">Чат</string>
+    <string name="InsPassword">Пароль должен содержать:</string>
+    <string name="InsPassword1"> Не менее 8 символов</string>
+    <string name="InsPassword2"> Прописные буквы</string>
+    <string name="InsPassword3"> Цифры</string>
+    <string name="InsPassword4"> Строчные буквы</string>
+    <string name="Login"> Логин</string>
+    <string name="ContrQuestion">Контрольный вопрос</string>
+    <string name="Reg">Зарегистрироваться</string>
+    <string name="License">Я принимаю условия соглашения о пользовании информационными системами и ресурсами города Москвы</string>
+    <string name="ContrAnsw">Ответ</string>
+    <string name="SecurityHeader">Придумайте пароль, контрольный вопрос и ответ на него для получения и восстановления доступа к личному кабинету</string>
+    <string name="RegContacktsUnder">На указанные номер мобильного телефона и адрес электронной почты будут отправлены коды подтверждения регистрации</string>
+
+    <string name="With_support_Moscow">При поддержке Правительства Москвы</string>
+    <string name="One_answer">Одна платформа для решения вопросов с проверками бизнеса</string>
+    <string name="Control_txt_Buis">Сервис взаимодействия бизнеса с органами контроля</string>
+    <string name="Eazy_answers">Понятные ответы без отписок и долгих ожиданий</string>
+    <string name="Special_answers">Специально разработанные сервисы позволят вам получить быстрые и понятные ответы на ваши вопросы </string>
+    <string name="Your_answers">Задать свой вопрос</string>
+    <string name="Chek_yor_buisness">Проверьте свой бизнес перед открытием</string>
+    <string name="Knows_control">Узнайте, кто и зачем придет к вам с проверками, и сохраните чеклист, чтобы быть готовым</string>
+    <string name="Simulator">Попробовать симулятор нагрузки на бизнес</string>
+    <string name="Profile_main_txt">Единый цифровой профиль</string>
+    <string name="Info_buiseness_txt">Заполните информацию о компаниях один раз и пользуйтесь сервисами намного эффективнее</string>
+    <string name="Fill_your_profile_txt">Заполнить свой цифровой профиль </string>
+
+    <string name="OpenControl_txt1">открытый</string>
+    <string name="OpenControl_txt2">КОНТРОЛЬ</string>
+    <string name="OpenControlEnterHeader">Вход в личный кабинет</string>
+    <string name="OpenControlEnterHeaderUnder">Для входа в личный кабинет выберите полномочие и авторизуйтесь</string>
+    <string name="OpenControlEnterLikeOC">Войти как орган контроля</string>
+    <string name="OpenControlEnterLikeBusiness">Войти как Бизнес</string>
+    <string name="OpenControlEnterAlternative">Войти под другим полномочием</string>
+
+
+    <string name="EnterControlHeader">Вход в Цифровая платформа Открытый контроль</string>
+    <string name="EnterControlHeaderUp">Единая система доступа</string>
+
+
+    <string name="EnterControlBuiseness">Телефон, электронная почта или СНИЛС</string>
+    <string name="EnterControlBuisenessFoggotPassword">Восстановить пароль</string>
+    <string name="me">Profile</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kontrol_example">Привет контроль</string>
+    <string name="sign_out">Выйти</string>
+    <string name="select_date">Select Date</string>
+    <string name="consultation_menu">Консультация</string>
+</resources>

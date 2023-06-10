@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585497991702",
+    "project_id": "lcthack-bf2c1",
+    "storage_bucket": "lcthack-bf2c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585497991702:android:371d1d84ce586b401b3337",
+        "android_client_info": {
+          "package_name": "com.example.lcthack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585497991702-37bahr0de9rr4jrr4ot5813kb471jas9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1UwH_p42iDbQloVEt6lUjde_ha8LBlV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585497991702-37bahr0de9rr4jrr4ot5813kb471jas9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
